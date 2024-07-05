@@ -1,6 +1,15 @@
 # timedKeeping
 Full stack application to learn Django, made to simulate an office environment. Goal is to see how much work can be done in a month.
 
+# Install:
+
+Create and activate Python Environment
+    python -m venv venv
+    source venv/bin/activate
+Install dependencies (Django)
+
+pip install -r requirements.txt
+
 # Ideal:
 Input, reporting, and PDF/Excel file generation
 Logins and user role enforcement
